@@ -2,6 +2,7 @@
 image_array = [
     'kambing.png',
     'sapi.png',
+    'kornet.png'
   ]
   
   function get_random_image(){
